@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋 I'm Tran Bo</h1>
 
-<!--
-**lucle87/lucle87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+🚀 Building AI × Blockchain products
+</p>
 
-Here are some ideas to get you started:
+## 🛠 Current Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ ARC Payment App
+- 🤖 BooAI
+- 🔍 TokenLens
+
+## 💻 Tech Stack
+
+- JavaScript
+- TypeScript
+- Next.js
+- Node.js
+- Solidity
+- Python
+
+## 🌐 Connect
+
+- X (Twitter)
+- Telegram
